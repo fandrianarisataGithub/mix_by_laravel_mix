@@ -1,0 +1,1 @@
+https://laracasts.com/discuss/channels/elixir/laravel-mix-issue-popperjs-dependency-cannot-be-found-by-boostrap-4-beta
